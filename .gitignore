@@ -1,1 +1,14 @@
-/venv
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output generated files
+vendite_analizzate.csv
+incasso_per_negozio.png
+incasso_per_prodotto.png
+andamento_giornaliero_incassi.png
+incasso_quantita_categoria.png
